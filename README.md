@@ -7,3 +7,5 @@ Financial risk management exercises:
   Market Risk: VaR and CVaR computation project
 
   BonoCupVarBondeD: Bonus calculation
+
+  Markowitz and Black Litterman models
