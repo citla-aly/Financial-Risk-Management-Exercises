@@ -9,3 +9,6 @@ Financial risk management exercises:
   BonoCupVarBondeD: Bonus calculation
 
   Markowitz and Black Litterman models
+
+  Stock analysis
+
